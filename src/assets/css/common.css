@@ -1,0 +1,24 @@
+body {
+    margin: 0%;
+    padding: 0%;
+    text-align: center;
+    background: linear-gradient(200deg, #f3e7e9, #e3eeff);
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+input,
+button,
+img {
+    border: none;
+}
+
+.active {
+    color: #409eff;
+}
